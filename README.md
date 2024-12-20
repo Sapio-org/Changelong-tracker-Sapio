@@ -1,6 +1,6 @@
 # Startup Roadmap: Building a Networking App for Nerds
 
-## 1. Evaluate Your Idea
+## 1. Evaluate The Idea
 - **Market Validation**:
   - Research the target audience (tech enthusiasts, hobbyists, recruiters).
   - Validate the need for a platform that blends professional networking and social matchmaking.
@@ -48,14 +48,13 @@
 
 ## 4. Build the Startup
 ### a. Team Building:
-- Co-founders: Bring in complementary expertise (e.g., business, marketing).
 - Early team: Focus on developers, designers, and marketers.
 
 ### b. Develop the MVP:
 - Start with core functionalities:
   - Swiping, chatting, and profile setup.
 - Choose a tech stack:
-  - Mobile: Flutter/React Native.
+  - Mobile: Flutter.
   - Backend: Node.js/Django.
 - Ensure scalability and a smooth user experience (UI/UX).
 
