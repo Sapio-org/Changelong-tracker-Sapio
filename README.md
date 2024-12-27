@@ -1,5 +1,5 @@
 # Startup Roadmap: Building a Networking App for Nerds
-
+Team members : Pranav Ajay, Vaishnavi kalkulte
 ## 1. Evaluate The Idea
 - **Market Validation**:
   - Research the target audience (tech enthusiasts, hobbyists, recruiters).
